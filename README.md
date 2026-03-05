@@ -3,4 +3,7 @@
 
 ## Name: 吳宗翰
 ## SID: C11318132
-<img src="C:\Users\USER\Desktop\appdev_w02_ex01-main\appdev_w02_ex01" width="300" />
+
+
+
+<img width="1137" height="109" alt="image" src="https://github.com/user-attachments/assets/341e39ac-ec2a-4691-863d-73676188c9cc" />
